@@ -1,2 +1,2 @@
 # CINTA-Assignment-2
-归纳证明
+题目：使用MarkDown归纳证明
